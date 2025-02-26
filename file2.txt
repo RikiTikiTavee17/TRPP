@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 task2
+=======
+file2Refactor
+>>>>>>> parent of acc8c3d (SecondRefactorFile2)
